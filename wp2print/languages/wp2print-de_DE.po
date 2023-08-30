@@ -1,0 +1,1057 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wp2print 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-06-09 09:12+0000\n"
+"PO-Revision-Date: 2017-06-11 15:04+0200\n"
+"Last-Translator: John Weissberg <jw@printscience.com>\n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: de_DE\n"
+"X-Poedit-SearchPath-0: ../../plugins/wp2print\n"
+
+msgid "Include tax price"
+msgstr ""
+
+msgid "Exclude tax price"
+msgstr ""
+
+msgid "Include tax and Exclude tax prices"
+msgstr ""
+
+msgid "Price Display Include Suffix:"
+msgstr ""
+
+msgid "Price Display Exclude Suffix:"
+msgstr ""
+
+msgid ""
+"Define text to show after your product prices (excluding tax). This could "
+"be, for example, 'excl. tax' to explain your pricing."
+msgstr ""
+
+msgid "Email address list"
+msgstr ""
+
+msgid "Site Background"
+msgstr "Seitenhintergrund"
+
+msgid "Top bar background color"
+msgstr ""
+
+msgid "Logo and menu background"
+msgstr ""
+
+msgid "Footer background color"
+msgstr ""
+
+msgid "Content Background"
+msgstr ""
+
+msgid "Products background"
+msgstr ""
+
+msgid "Products text color"
+msgstr ""
+
+msgid "Display attribute images"
+msgstr ""
+
+msgid "Image size: 100px x 80px"
+msgstr "Bildgröße: 100px x 80px"
+
+msgid "Homepage Slider"
+msgstr ""
+
+msgid "No Slider"
+msgstr ""
+
+msgid "Shipping amount"
+msgstr ""
+
+msgid "Enable Invoice payment"
+msgstr ""
+
+msgid "Orders Approving"
+msgstr ""
+
+msgid "Group Users"
+msgstr ""
+
+msgid "Awaiting approval"
+msgstr ""
+
+msgid "Orders Email Contents"
+msgstr ""
+
+msgid "Email title for mail to superuser for new order pending approval"
+msgstr ""
+
+msgid "Email body for mail to superuser for new order pending approval"
+msgstr ""
+
+msgid "Email title to user following order rejection"
+msgstr ""
+
+msgid "Email body to user following order rejection"
+msgstr ""
+
+msgid "You aren't allowed to view this order."
+msgstr ""
+
+msgid "Orders awaiting approval"
+msgstr ""
+
+msgid "Order #"
+msgstr ""
+
+msgid "Author"
+msgstr ""
+
+msgid "Purchased"
+msgstr ""
+
+msgid "Date"
+msgstr ""
+
+msgid "No orders."
+msgstr ""
+
+msgid "Order was successfully approved."
+msgstr ""
+
+msgid "Order was successfully rejected."
+msgstr ""
+
+msgid "Product List Prices"
+msgstr ""
+
+msgid "Disable Product List Price"
+msgstr ""
+
+msgid "Check checkbox if you want to hide product prices on list."
+msgstr ""
+
+msgid "Designer product type"
+msgstr ""
+
+msgid "Select type"
+msgstr ""
+
+msgid "Requires data from Agents database"
+msgstr ""
+
+msgid "Requires data from Agents and Houses databases"
+msgstr ""
+
+msgid "Simple Submit Form"
+msgstr ""
+
+msgid "Form settings were successfully saved."
+msgstr ""
+
+msgid "Form title"
+msgstr ""
+
+msgid "Form success text"
+msgstr ""
+
+msgid "From name"
+msgstr ""
+
+msgid "From email"
+msgstr ""
+
+msgid "Customer email subject"
+msgstr ""
+
+msgid "Customer email heading"
+msgstr ""
+
+msgid "Customer email content"
+msgstr ""
+
+msgid "Admin email subject"
+msgstr ""
+
+msgid "Admin email heading"
+msgstr ""
+
+msgid "Use Invoice payment method of zero-value orders"
+msgstr ""
+
+msgid ""
+"This product is not available with the set of options. Please choose another "
+"set of options."
+msgstr ""
+
+msgid ""
+"Amazon S3 Region is empty. Please visit <a href='%s'>this page</a> and enter "
+"Amazon S3 Region."
+msgstr ""
+"Amazon S3-Region ist leer. Bitte besuchen Sie <a href=‘%s’>diese Seite</a> "
+"und geben Sie Amazon S3-Region."
+
+msgid "Prices"
+msgstr "Preise"
+
+msgid "S3 Region"
+msgstr "S3 Region"
+
+msgid "Page Count attribute"
+msgstr "Seiten-Zähler-Attribut"
+
+msgid "Please visit <a href='%s'>this page</a> and enter your license code"
+msgstr ""
+"Bitte besuchen Sie <a href=‘%s’>diese Seite</a> und geben Sie Ihren "
+"Lizenzcode ein"
+
+msgid "Display Weight"
+msgstr "Gewicht anzeigen"
+
+msgid "Display Price"
+msgstr "Preis anzeigen"
+
+msgid "including tax"
+msgstr "inkl. MwSt."
+
+msgid "excluding tax"
+msgstr "exkl. MwSt."
+
+msgid "Import Prices"
+msgstr "Preise importieren"
+
+msgid "Export Prices"
+msgstr "Preise exportieren"
+
+msgid "Users Groups"
+msgstr "Benutzergruppen"
+
+msgid "Add Group"
+msgstr "Gruppe hinzufügen"
+
+msgid "Edit Group"
+msgstr "Gruppe bearbeiten"
+
+msgid "All"
+msgstr "Alles"
+
+msgid "Group Name"
+msgstr "Gruppenname"
+
+msgid "Users"
+msgstr "Benutzer"
+
+msgid "Created"
+msgstr "Erstellt"
+
+msgid "No Groups"
+msgstr "Keine Gruppen"
+
+msgid "group"
+msgstr "Gruppe"
+
+msgid "groups"
+msgstr "Gruppen"
+
+msgid "Bulk Actions"
+msgstr "Massen-Aktionen"
+
+msgid "Delete"
+msgstr "Löschen"
+
+msgid "Theme Settings"
+msgstr "Theme-Einstellungen"
+
+msgid "Visible Categories"
+msgstr "Sichtbare Kategorien"
+
+msgid "Visible Products"
+msgstr "Sichtbare Produkte"
+
+msgid "Payment method"
+msgstr "Bezahlmethode"
+
+msgid "Select Payment method"
+msgstr "Bezahlungsmethode wählen"
+
+msgid "Landing page after login"
+msgstr "Startseite nach Log In"
+
+msgid "Landing page after logout"
+msgstr "Startseite nach Abmeldung"
+
+msgid "Tax ID"
+msgstr "Umsatzsteuer-ID"
+
+msgid "Submit"
+msgstr "Absenden"
+
+msgid "Logo"
+msgstr "Logo"
+
+msgid "Group Name is required field."
+msgstr "Gruppenname ist Pflichtfeld."
+
+msgid "User Group"
+msgstr "Nutzergruppe"
+
+msgid "Group"
+msgstr "Gruppe"
+
+msgid "Select Group"
+msgstr "Gruppe auswählen"
+
+msgid "Image"
+msgstr "Bild"
+
+msgid "Yes"
+msgstr "Ja"
+
+msgid "Flat Rate Shipping"
+msgstr "Versandkostenpauschale"
+
+msgid "Tax rate"
+msgstr "Steuersatz"
+
+msgid "Invoice Payment Method"
+msgstr "Rechnungszahlungsmethode"
+
+msgid "Username"
+msgstr "Benutzername"
+
+msgid "Superuser"
+msgstr "Superuser"
+
+msgid "Rounding"
+msgstr "Rundung"
+
+msgid "Approved for production"
+msgstr "Zugelassen für die Produktion"
+
+msgid "Rejected for production"
+msgstr "Abgelehnt für die Produktion"
+
+msgid "Approved on"
+msgstr "Genehmigt am"
+
+msgid "Rejected on"
+msgstr "Abgelehnt am"
+
+msgid "Order Details"
+msgstr "Bestelldetails"
+
+msgid "Order"
+msgstr "Bestell"
+
+msgid "Order Date"
+msgstr "Bestelldatum"
+
+msgid "Payment"
+msgstr "Zahlung"
+
+msgid "Customer Details"
+msgstr "Kunden-Details"
+
+msgid "Name"
+msgstr "Name"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Phone"
+msgstr "Telefon"
+
+msgid "IP Address"
+msgstr "IP-Adresse"
+
+msgid "Billing Details"
+msgstr "Rechnungsdetails"
+
+msgid "Shipping Details"
+msgstr "Versanddetails"
+
+msgid "Items Details"
+msgstr "Artikeldetails"
+
+msgid "Item"
+msgstr "Artikel"
+
+msgid "Cost"
+msgstr "Kosten"
+
+# Menge
+msgid "Qty"
+msgstr "Menge"
+
+msgid "Total"
+msgstr "Gesamt"
+
+msgid "Subtotal"
+msgstr "Zwischensumme"
+
+msgid "Shipping"
+msgstr "Versandkosten"
+
+msgid "Order Total"
+msgstr "Bestell-Summe"
+
+msgid "Comments"
+msgstr "Meinungen"
+
+msgid "Approve"
+msgstr "Freischalten"
+
+msgid "Reject"
+msgstr "Abgelehnt"
+
+msgid "Select State"
+msgstr "Bundesland auswählen"
+
+msgid "Project Name"
+msgstr "Projektname"
+
+msgid "First Name"
+msgstr "Vorname"
+
+msgid "Last Name"
+msgstr "Nachname"
+
+msgid "Telephone"
+msgstr "Telefon"
+
+msgid "Delivery address"
+msgstr "Lieferanschrift"
+
+msgid "Address line 1"
+msgstr "Adresszeile 1"
+
+msgid "Address line 2"
+msgstr "Adresszeile 2"
+
+msgid "City"
+msgstr "Ort"
+
+msgid "Country"
+msgstr "Land"
+
+msgid "State"
+msgstr "Bundesland"
+
+msgid "Zip"
+msgstr "Postfach"
+
+msgid "Select file(s) to upload"
+msgstr "Wählen Sie die Datei zu hochladen"
+
+msgid "Project Name is required field."
+msgstr "Projektname ist Pflichtfeld."
+
+msgid "First Name is required field."
+msgstr "Vorname ist Pflichtfeld."
+
+msgid "Last Name is required field."
+msgstr "Nachname ist Pflichtfeld."
+
+msgid "Email is required field."
+msgstr "E-Mail ist Pflichtfeld."
+
+msgid "Email is incorrect."
+msgstr "Inkorrekte E-Mail-Adresse"
+
+msgid "Telephone is required field."
+msgstr "Telefon ist Pflichtfeld."
+
+msgid "Address is required field."
+msgstr "Adresse ist Pflichtfeld."
+
+msgid "City is required field."
+msgstr "Ort ist Pflichtfeld."
+
+msgid "Country is required field."
+msgstr "Land ist Pflichtfeld."
+
+msgid "%s is required field."
+msgstr "%s ist Pflichtfeld."
+
+msgid "Enable State field"
+msgstr "Bundessland Feld aktivieren"
+
+msgid "State field label"
+msgstr "Bundesland Feldbeschriftung"
+
+msgid "Zip field label"
+msgstr "Postfach Feldbeschriftung"
+
+msgid "Select country"
+msgstr "Land wählen"
+
+msgid "Min. Quantity of Bound Books"
+msgstr "Min. Menge der Bücher"
+
+msgid "Free Shipping"
+msgstr "Kostenloser Versand"
+
+msgid "Allow upload later"
+msgstr "Erlauben: Upload später"
+
+msgid "Attribute labels"
+msgstr "Beschriftung Attributen"
+
+msgid "Attribute"
+msgstr "Attribut"
+
+msgid "Label"
+msgstr "Beschriftung"
+
+msgid "No selected attributes"
+msgstr "Keine ausgewählten Attribute"
+
+msgid "Books quantity label"
+msgstr "Beschriftung Büchermengen"
+
+msgid "Quantity label"
+msgstr "Beschriftung Menge"
+
+msgid "Width label"
+msgstr "Beschriftung Breite"
+
+msgid "Height label"
+msgstr "Beschriftung Höhe"
+
+msgid "Use theme Printshop for Group"
+msgstr "Verwenden das Thema Printshop für die Gruppe"
+
+msgid "v2 signature"
+msgstr "V2 unterschrift Amazon S3"
+
+#: print products translation
+msgid "Price Matrix Options"
+msgstr "Preismatrix Optionen"
+
+msgid "Price Matrix Values"
+msgstr "Preismatrix Werte"
+
+msgid "Attributes Options"
+msgstr "Attribute-Optionen"
+
+msgid "Matrix Options"
+msgstr "Matrix-Optionen"
+
+msgid "Area product"
+msgstr "Bereich-Produkte"
+
+msgid "Fixed size product"
+msgstr "Feste-Größe Produkt"
+
+msgid "Book product"
+msgstr "Buch-Produkt"
+
+msgid "Printing matrix"
+msgstr "Druck-Matrix"
+
+msgid "Finishing matrix"
+msgstr "Zusatz-Matrix"
+
+msgid "Print Options"
+msgstr "Druckoptionen"
+
+msgid "Finishing Options"
+msgstr "Zusatz-Eigenschaften"
+
+msgid "Quantity"
+msgstr "Menge"
+
+msgid "Total Pages"
+msgstr "Gesamtzahl Seiten"
+
+msgid "Total Area"
+msgstr "Gesamtfläche"
+
+msgid "Total Perimeter"
+msgstr "Gesamtumfang"
+
+msgid "Total Width"
+msgstr "Gesamtbreite"
+
+msgid "Black/White Pages"
+msgstr "Schwarze/Weiße Seiten"
+
+msgid "Colour Pages"
+msgstr "Farbige Seiten"
+
+msgid "None"
+msgstr "Keine"
+
+msgid "No"
+msgstr "Nein"
+
+msgid "Please publish product before adding matrix options."
+msgstr ""
+"Bitte veröffentlichen Sie das Produkt, bevor Sie Matrix-Optionen hinzufügen."
+
+msgid "Width"
+msgstr "Breite"
+
+msgid "Height"
+msgstr "Höhe"
+
+msgid "Min Width"
+msgstr "Min. Breite"
+
+msgid "Max Width"
+msgstr "Max. Breite"
+
+msgid "Min Height"
+msgstr "Min. Höhe"
+
+msgid "Max Height"
+msgstr "Max. Höhe:"
+
+msgid "Min Quantity"
+msgstr "Min. Menge"
+
+msgid "Title"
+msgstr "Titel"
+
+msgid "Type"
+msgstr "Typ"
+
+msgid "Attributes"
+msgstr "Eigenschaften"
+
+msgid "Quantities"
+msgstr "Menge"
+
+msgid "Total Areas"
+msgstr "Gesamtfläche"
+
+msgid "Total Perimeters"
+msgstr "Gesamt Perimeter-Entfernung"
+
+msgid "Total Widths"
+msgstr "Gesamten Breite"
+
+msgid "Proportional quantity"
+msgstr "Proportionale Menge"
+
+msgid "Quantity display style"
+msgstr "Mengenanzeigemodus"
+
+msgid "Attribute prefix"
+msgstr "Präfix des Attributes"
+
+msgid "Prefix text for attribute label"
+msgstr "Präfixtext für Attributsbezeichnung"
+
+msgid "Textfield"
+msgstr "Textfeld"
+
+msgid "Dropdown"
+msgstr "Dropdown-Liste"
+
+msgid "Sort"
+msgstr "Sortieren"
+
+msgid "Attribute sort order"
+msgstr "Sortierreihenfolge der Attribute"
+
+msgid "Action"
+msgstr "Aktion"
+
+msgid "edit"
+msgstr "bearbeiten"
+
+msgid "delete"
+msgstr "löschen"
+
+msgid "Are you sure?"
+msgstr "Sicher?"
+
+msgid "No Price Matrix Options"
+msgstr "Keine Preismatrix-Optionen"
+
+msgid "Add new printing price matrix"
+msgstr "Neue Druckpreismatrix hinzufügen"
+
+msgid "Add new finishing price matrix"
+msgstr "Neue Veredlungspreismatrix hinzufügen"
+
+msgid "Please publish product before adding price matrix."
+msgstr ""
+"Bitte veröffentlichen Sie das Produkt, bevor Sie eine Preismatrix hinzufügen."
+
+msgid "Select price matrix type"
+msgstr "Wählen Sie die Art der Preismatrix aus"
+
+msgid "You must create Price Matrix Options first."
+msgstr "Sie müssen zuerst die Preismatrix-Optionen erstellen."
+
+msgid "Settings Saved."
+msgstr "Einstellungen gespeichert."
+
+msgid "File upload target"
+msgstr "Datei-Upload-Ziel"
+
+msgid "Host server"
+msgstr "Host-server"
+
+msgid "Amazon S3"
+msgstr "Amazon S3"
+
+msgid "S3 Access Key"
+msgstr "S3 Zugangsschlüssel"
+
+msgid "S3 Secret Key"
+msgstr "S3 Geheimschlüssel"
+
+msgid "S3 Bucketname"
+msgstr "S3 Bereichsname"
+
+msgid "S3 Path"
+msgstr "S3 Weg"
+
+msgid "Save Settings"
+msgstr "Einstellungen speichern"
+
+msgid "Material"
+msgstr "Material"
+
+msgid "Weight"
+msgstr "Gewicht"
+
+msgid "Download"
+msgstr "Herunterladen"
+
+msgid "View"
+msgstr "Zeige"
+
+msgid "Add"
+msgstr "Hinzufügen"
+
+msgid "Update"
+msgstr "Aktualisieren"
+
+msgid "Save"
+msgstr "Speichern"
+
+msgid "Settings were successfully saved."
+msgstr "Einstellungen erfolgreich gespeichert."
+
+msgid "Product Attributes"
+msgstr "Produkt-Eigenschaften"
+
+msgid "Size attribute"
+msgstr "Size-Eigenschaft"
+
+msgid "Colour attribute"
+msgstr "Farbe-Eigenschaft"
+
+msgid "Material attribute"
+msgstr "Material-Eigenschaft"
+
+msgid "Printing attributes"
+msgstr "Druck-Eigenschaften"
+
+msgid "Finishing attributes"
+msgstr "Zusatz-Eigenschaften"
+
+msgid "Attributes sort order"
+msgstr "Eigenschaften-Sortierreihenfolge"
+
+msgid "Price Matrix Values for"
+msgstr "Preismatrix Werte für"
+
+msgid "Size"
+msgstr "Größe"
+
+msgid "Option"
+msgstr "Option"
+
+msgid "Option item"
+msgstr "Option-Element"
+
+msgid "min"
+msgstr "min"
+
+msgid "max"
+msgstr "max"
+
+msgid "Price"
+msgstr "Preis"
+
+msgid "DESIGN ONLINE"
+msgstr "DESIGN ONLINE"
+
+msgid "ADD TO CART"
+msgstr "IN DEN WARENKORB"
+
+msgid "Min width is"
+msgstr "Min. Breite ist"
+
+msgid "Max width is"
+msgstr "Max. Breite ist"
+
+msgid "Min height is"
+msgstr "Min. Höhe ist"
+
+msgid "Max height is"
+msgstr "Max Höhe ist"
+
+msgid ""
+"This combination of size and material not offered. Please select another."
+msgstr ""
+"Diese Größen- und Materialkombination wird nicht angeboten. Bitte wählen Sie "
+"eine andere aus."
+
+msgid "Please enter correct quantity of bound books."
+msgstr "Bitte geben Sie die korrekte Anzahl gebundener Bücher ein."
+
+msgid "Please enter correct quantity of pages."
+msgstr "Bitte geben Sie die korrekte Menge der Seiten ein."
+
+msgid "Please select artwork files"
+msgstr "Bitte wählen Sie Druckvorlagen aus"
+
+msgid "Select files"
+msgstr "Dateien auswählen"
+
+msgid "Upload files"
+msgstr "Daten hochladen"
+
+msgid "CONTINUE >>"
+msgstr "WEITER >>"
+
+msgid "Upload error"
+msgstr "Fehler beim Hochladen"
+
+msgid "Artwork Files"
+msgstr "Druckdaten"
+
+msgid "Designer File"
+msgstr "Designer-Dateien"
+
+msgid "Quantity of bound books"
+msgstr "Anzahl gebundener Bücher"
+
+msgid "Pages Quantity"
+msgstr "Anzahl der Seiten"
+
+msgid "Please add product attributes."
+msgstr "Bitte fügen Sie Produktattribute hinzu."
+
+msgid "Please add attribute terms."
+msgstr "Bitte fügen Sie Attributbezeichnungen hinzu."
+
+msgid "Please check attributes options."
+msgstr "Bitte kontrollieren Sie die Attribut-Optionen."
+
+msgid "Back"
+msgstr "Zurück"
+
+msgid "From"
+msgstr "von"
+
+msgid ""
+"`Woocommerce plugin` is required for `wp2print` plugin. Please install it."
+msgstr ""
+"`Woocommerce plugin` wird für das `wp2print` Plugin benötigt. Bitte "
+"installieren Sie es."
+
+msgid ""
+"`Print Science Designer` plugin is required for `wp2print` plugin. Please "
+"install it."
+msgstr ""
+"`Print Science Designer` Plugin wird für das `Print Science Designer` Plugin "
+"benötigt. Bitte installieren Sie es."
+
+msgid ""
+"`Category Order and Taxonomy Terms Order` plugin is required for `wp2print` "
+"plugin. Please install it."
+msgstr ""
+"`Category Order and Taxonomy Terms Order` Plugin wird für das `wp2print` "
+"Plugin benötigt. Bitte installieren Sie es."
+
+msgid "Please enter the license key for `wp2print` plugin to activate it."
+msgstr ""
+"Bitte geben Sie den Lizenzcode für das `wp2print` Plugin ein und aktivieren "
+"Sie es."
+
+msgid "You can deactivate the license key for `wp2print` plugin."
+msgstr "Sie können den Lizeneschlüssel für das `wp2print` Plugin deaktivieren."
+
+msgid "wp2print Settings"
+msgstr "wp2print Einstellungen"
+
+msgid "License"
+msgstr "Lizenz"
+
+msgid "File uploads"
+msgstr "Datei-Uploads"
+
+msgid "License Key"
+msgstr "Lizenzschlüssel"
+
+msgid "Activate"
+msgstr "Aktivieren"
+
+msgid "Deactivate"
+msgstr "Deaktivieren"
+
+msgid "License Key was successfully activated."
+msgstr "Lizenzschlüssel wurde erfolgreich aktiviert."
+
+msgid "License Key was successfully deactivated."
+msgstr "Lizenzschlüssel wurde erfolgreich deaktiviert."
+
+msgid "File uploads settings were successfully saved"
+msgstr ""
+"Die Einstellungen zum Hochladen von Dateien wurden erfolgreich gespeichert."
+
+msgid "Sort Order"
+msgstr "Sortierreihenfolge"
+
+msgid "Taxonomy"
+msgstr "Klassifizierung"
+
+msgid "Products Attributes"
+msgstr "Produktattribute"
+
+msgid ""
+"This plugin can't work without javascript, because it's use drag and drop "
+"and AJAX."
+msgstr ""
+"Dieses Plugin funktioniert nicht ohne Javascript, da es die Funktion Ziehen "
+"und Ablegen sowie AJAX verwendet."
+
+msgid "Terms"
+msgstr "Bedingungen"
+
+msgid "Terms Order Updated"
+msgstr "aktualisierte Bestellbedingungen"
+
+msgid "SKU"
+msgstr "Artikelnummer"
+
+msgid "Display Sort Order"
+msgstr "Display-Sortierreihenfolge"
+
+msgid "Enter a comma separated list of numbers"
+msgstr "Geben Sie eine Komma-separierte Liste von Zahlen"
+
+msgid "Attributes for printing price matrix for"
+msgstr "Attribute der Druckpreismatrix für"
+
+msgid "Attributes for finishing price matrix for"
+msgstr "Attribute der Veredlungspreismatrix für"
+
+msgid "Prices for Printing for"
+msgstr "Preise für den Druck für"
+
+msgid "Prices for Finishing for"
+msgstr "Preise für die Zusatz für"
+
+msgid "Min quantity is"
+msgstr "Min. Menge ist"
+
+msgid "Help text for field Size attribute"
+msgstr "Hilfetext für das Feld Größenattribute"
+
+msgid "Help text for field Colour attribute"
+msgstr "Hilfetext für das Feld Farbattribute"
+
+msgid "Help text for field Material attribute"
+msgstr "Hilfetext für das Text Materialattribute."
+
+msgid "Help text for field Printing attributes"
+msgstr "Hilfetext für das Feld Druckattribute"
+
+msgid "Help text for field Finishing attributes"
+msgstr "Hilfetext für das Feld Veredelungsattribute"
+
+msgid "Help text for field Attributes sort order"
+msgstr "Hilfetext für das Feld Sortierreihenfolge-Attribute"
+
+msgid "Help text for field Attributes"
+msgstr "Hilfetext für das Feld Attribute"
+
+msgid "Help text for field Quantities"
+msgstr "Hilfetext für das Feld Menge"
+
+msgid "Help text for field Quantity display style"
+msgstr "Hilfetext für das Feld Mengenanzeigemodus"
+
+msgid "Help text for field Proportional quantity"
+msgstr "Hilfetext für das Feld Proportionale Menge"
+
+msgid "Help text for field Display Sort Order"
+msgstr "Hilfetext für das Feld Anzeige der Sortierreihenfolge"
+
+msgid "Help text for field License Key"
+msgstr "Hilfetext für das Feld Lizenzschlüssel"
+
+msgid "Help text for field S3 Access Key"
+msgstr "Hilfetext für das Feld S3 Zugangsschlüssel"
+
+msgid "Help text for field S3 Secret Key"
+msgstr "Hilfetext für das Feld S3 Geheimschlüssel"
+
+msgid "Help text for field S3 Bucketname"
+msgstr "Hilfetext für das Feld S3 Bereichsname"
+
+msgid "Help text for field S3 Path"
+msgstr "Hilfetext für das Feld S3 Weg"
+
+msgid "Help text for field Attribute prefix"
+msgstr "Hilfetext für das Feld Attributpräfix"
+
+msgid "Base Quantity"
+msgstr "Basismenge"
+
+msgid "File source"
+msgstr "Quell-Datei"
+
+msgid "Customer uploads file"
+msgstr "Hochgeladene Kundendateien"
+
+msgid "No file upload required"
+msgstr "Kein Dateiupload erforderlich"
+
+msgid "Designer configuration"
+msgstr "Designer-Konfiguration"
+
+msgid "Product ID"
+msgstr "Produkt-ID"
+
+msgid "Template ID"
+msgstr "Vorlagen-ID"
+
+msgid "Default value for quantity"
+msgstr "Default-Wert für die Menge"
+
+msgid "Default value for quantity field"
+msgstr "Default-Wert für Mengenfeld"
+
+msgid "File upload max size"
+msgstr "Max. Größe der Datei-upload"
+
+msgid "Upload your own design"
+msgstr "Daten hochladen"
+
+msgid "Upload"
+msgstr "Hochladen"
+
+msgid "Upload later"
+msgstr "später hochladen"

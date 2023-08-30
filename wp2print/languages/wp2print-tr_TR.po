@@ -1,0 +1,854 @@
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: wp2print\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-06-22 17:09+0200\n"
+"Language-Team: Print Science <support@printscience.com>\n"
+"X-Generator: Poedit 1.8.6\n"
+"POT-Creation-Date: \n"
+"Last-Translator: John Weissberg <jw@printscience.com>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: tr\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: print products translation
+msgid "Price Matrix Options"
+msgstr "Ürün Matrisi Seçenekleri"
+
+msgid "Price Matrix Values"
+msgstr "Ürün Matrisi Değerleri"
+
+msgid "Attributes Options"
+msgstr "Öznitelik Seçenekleri"
+
+msgid "Matrix Options"
+msgstr "Matris Seçenekleri"
+
+msgid "Prices"
+msgstr "Fiyatlar"
+
+msgid "Area product"
+msgstr "Alan ürünü"
+
+msgid "Fixed size product"
+msgstr "Sabit boyutlu ürün"
+
+msgid "Book product"
+msgstr "Ürünü ayırt"
+
+msgid "Printing matrix"
+msgstr "Matris yazdırılıyor"
+
+msgid "Finishing matrix"
+msgstr "Matris bitiriliyor"
+
+msgid "Print Options"
+msgstr "Yazdırma Seçenekleri"
+
+msgid "Finishing Options"
+msgstr "Kaplama Seçenekleri"
+
+msgid "Quantity"
+msgstr "Miktar"
+
+msgid "Total Pages"
+msgstr "Toplam Sayfa"
+
+msgid "Total Area"
+msgstr "Toplam Alan"
+
+msgid "Total Perimeter"
+msgstr "Toplam Çevre"
+
+msgid "Total Width"
+msgstr "Toplam Genişlik"
+
+msgid "Black/White Pages"
+msgstr "Siyah/Beyaz Sayfalar"
+
+msgid "Colour Pages"
+msgstr "Renkli Sayfalar"
+
+msgid "None"
+msgstr "Hiçbiri"
+
+msgid "No"
+msgstr "Hayır"
+
+msgid "Please publish product before adding matrix options."
+msgstr "Matris seçenekleri eklemeden önce lütfen ürünü yayınlayın."
+
+msgid "Width"
+msgstr "Genişlik"
+
+msgid "Height"
+msgstr "Yükseklik"
+
+msgid "Min Width"
+msgstr "Minimum Genişlik"
+
+msgid "Max Width"
+msgstr "Maksimum Genişlik"
+
+msgid "Min Height"
+msgstr "Minimum Yükseklik"
+
+msgid "Max Height"
+msgstr "Maksimum Yükseklik"
+
+msgid "Min Quantity"
+msgstr "Minimum Adet"
+
+msgid "Title"
+msgstr "Başlık"
+
+msgid "Type"
+msgstr "Tür"
+
+msgid "Attributes"
+msgstr "Öznitelikler"
+
+msgid "Quantities"
+msgstr "Adetler"
+
+msgid "Total Areas"
+msgstr "Toplam Alanlar"
+
+msgid "Total Perimeters"
+msgstr "Toplam Çevreler"
+
+msgid "Total Widths"
+msgstr "Toplam Genişlikler"
+
+msgid "Proportional quantity"
+msgstr "Oransal miktar"
+
+msgid "Quantity display style"
+msgstr "Miktar gösterim tasarımı"
+
+msgid "Attribute prefix"
+msgstr "Öznitelik Öneki"
+
+msgid "Prefix text for attribute label"
+msgstr "Öznitelik etiketi için önek metni"
+
+msgid "Textfield"
+msgstr "Metin Alanı"
+
+msgid "Dropdown"
+msgstr "Açılır Liste"
+
+msgid "Sort"
+msgstr "Sırala"
+
+msgid "Attribute sort order"
+msgstr "Sıralama Düzeni"
+
+msgid "Action"
+msgstr "Eylem"
+
+msgid "edit"
+msgstr "düzenle"
+
+msgid "delete"
+msgstr "sil"
+
+msgid "Are you sure?"
+msgstr "Emin misiniz?"
+
+msgid "No Price Matrix Options"
+msgstr "Ücret Matrisi Seçeneği Yok"
+
+msgid "Add new printing price matrix"
+msgstr "Yeni yazdırma fiyat matrisi ekle"
+
+msgid "Add new finishing price matrix"
+msgstr "Yeni kaplama fiyat matrisi ekle"
+
+msgid "Please publish product before adding price matrix."
+msgstr "Ücret matrisi eklemeden önce lütfen ürünü yayınlayın."
+
+msgid "Select price matrix type"
+msgstr "Ücret matrisi türünü seçin"
+
+msgid "You must create Price Matrix Options first."
+msgstr "Önce Ücret Matrisi Seçeneklerini oluşturmalısınız."
+
+msgid "Settings Saved."
+msgstr "Ayarlar Kaydedildi."
+
+msgid "File upload target"
+msgstr "Dosya karşıya yükleme hedefi"
+
+msgid "Host server"
+msgstr "Ana Bilgisayar Sunucusu"
+
+msgid "Amazon S3"
+msgstr "Amazon S3"
+
+msgid "S3 Access Key"
+msgstr "S3 Erişim Anahtarı"
+
+msgid "S3 Secret Key"
+msgstr "S3 Gizli Anahtarı"
+
+msgid "S3 Bucketname"
+msgstr "S3 Kova Adı"
+
+msgid "S3 Path"
+msgstr "S3 Yolu"
+
+msgid "Save Settings"
+msgstr "Ayarları Kaydet"
+
+msgid "Material"
+msgstr "Materyal"
+
+msgid "Weight"
+msgstr "Ağırlık"
+
+msgid "Download"
+msgstr "İndir"
+
+msgid "View"
+msgstr "Görüntüle"
+
+msgid "Add"
+msgstr "Ekle"
+
+msgid "Update"
+msgstr "Güncelle"
+
+msgid "Save"
+msgstr "Kaydet"
+
+msgid "Settings were successfully saved."
+msgstr "Ayarlar başarıyla kaydedildi"
+
+msgid "Product Attributes"
+msgstr "Ürün Öznitelikleri"
+
+msgid "Size attribute"
+msgstr "Boyut Öznitelikleri"
+
+msgid "Colour attribute"
+msgstr "Renk Öznitelikleri"
+
+msgid "Material attribute"
+msgstr "Materyal Öznitelikleri"
+
+msgid "Printing attributes"
+msgstr "Yazdırma Öznitelikleri"
+
+msgid "Finishing attributes"
+msgstr "Kaplama Öznitelikleri"
+
+msgid "Attributes sort order"
+msgstr "Sıralama düzeni öznitelikleri"
+
+msgid "Price Matrix Values for"
+msgstr "Ücret Matrisi Değerleri"
+
+msgid "Size"
+msgstr "Boyut"
+
+msgid "Option"
+msgstr "Seçenek"
+
+msgid "Option item"
+msgstr "Seçenek öğesi"
+
+msgid "min"
+msgstr "minimum"
+
+msgid "max"
+msgstr "maksimum"
+
+msgid "Price"
+msgstr "Ücret"
+
+msgid "DESIGN ONLINE"
+msgstr "ÇEVRİMİÇİ TASARLA"
+
+msgid "ADD TO CART"
+msgstr "SEPETE EKLE"
+
+msgid "Min width is"
+msgstr "Minimum genişlik"
+
+msgid "Max width is"
+msgstr "Maksimum genişlik"
+
+msgid "Min height is"
+msgstr "Minimum yükseklik"
+
+msgid "Max height is"
+msgstr ""
+"Maksimum y\n"
+"ükseklik"
+
+msgid ""
+"This combination of size and material not offered. Please select another."
+msgstr "Bu boyut ve materyal kombinasyonu önerilmez. Lütfen başka seçin."
+
+msgid "Please enter correct quantity of bound books."
+msgstr "Lütfen ciltli defterler için doğru adedi girin."
+
+msgid "Please enter correct quantity of pages."
+msgstr "Lütfen sayfalar için doğru adedi girin."
+
+msgid "Please select artwork files"
+msgstr "Lütfen çizim dosyalarını seçin"
+
+msgid "Select files"
+msgstr "Dosya seç"
+
+msgid "Upload files"
+msgstr "Dosya karşıya yükle"
+
+msgid "CONTINUE >>"
+msgstr "DEVAM ET >>"
+
+msgid "Upload error"
+msgstr "Karşıya yükleme hatası"
+
+msgid "Artwork Files"
+msgstr "Çizim Dosyaları"
+
+msgid "Designer File"
+msgstr "Tasarım Dosyası"
+
+msgid "Quantity of bound books"
+msgstr "Ciltli kitap adedi"
+
+msgid "Pages Quantity"
+msgstr "Sayfa Adedi"
+
+msgid "Please add product attributes."
+msgstr "Lütfen ürün özniteliklerini ekleyin."
+
+msgid "Please add attribute terms."
+msgstr "Lütfen koşulları ekleyin."
+
+msgid "Please check attributes options."
+msgstr "Lütfen öznitelik seçeneklerini kontrol edin"
+
+msgid "Back"
+msgstr "Geri"
+
+msgid "From"
+msgstr "Başlangıç"
+
+msgid ""
+"`Woocommerce plugin` is required for `wp2print` plugin. Please install it."
+msgstr ""
+"`wp2prin` eklentisi için `Woocommerce eklentisi` gereklidir. Lütfen yükleyin."
+
+msgid ""
+"`Print Science Designer` plugin is required for `wp2print` plugin. Please "
+"install it."
+msgstr ""
+"`wp2prin` eklentisi için `Print Science Designer` eklentisi gereklidir. "
+"Lütfen yükleyin."
+
+msgid ""
+"`Category Order and Taxonomy Terms Order` plugin is required for `wp2print` "
+"plugin. Please install it."
+msgstr ""
+"`wp2prin` eklentisi için `Kategori Sıralaması ve Taksonomi Terimleri "
+"Sıralaması` eklentisi gereklidir. Lütfen yükleyin."
+
+msgid "Please visit <a href=\"%s\">this page</a> and enter your license code"
+msgstr ""
+"Lütfen <a href=\"%s\">bu sayfayı</a> ziyaret edin ve lisans anahtarınızı "
+"yazın"
+
+msgid "Please enter the license key for `wp2print` plugin to activate it."
+msgstr ""
+"`wp2print` eklentisini etkinleştirmek için lütfen lisans anahtarını girin."
+
+msgid "You can deactivate the license key for `wp2print` plugin."
+msgstr "`wp2print` eklentisi için lisans kodunu devre dışı bırakabilirsiniz."
+
+msgid "wp2print Settings"
+msgstr "wp2print Ayarları"
+
+msgid "License"
+msgstr "Lisans"
+
+msgid "File uploads"
+msgstr "Dosya karşıya yükleme"
+
+msgid "License Key"
+msgstr "Lisans Anahtarı"
+
+msgid "Activate"
+msgstr "Etkinleştir"
+
+msgid "Deactivate"
+msgstr "Devre Dışı Bırak"
+
+msgid "License Key was successfully activated."
+msgstr "Lisans kodu başarıyla etkinleştirildi."
+
+msgid "License Key was successfully deactivated."
+msgstr "Lisans kodu başarıyla devre dışı bırakıldı."
+
+msgid "File uploads settings were successfully saved"
+msgstr "Dosya karşıya yükleme ayarları başarıyla kaydedildi"
+
+msgid "Taxonomy"
+msgstr "Taksonomi"
+
+msgid "Products Attributes"
+msgstr "Ürün Öznitelikleri"
+
+msgid ""
+"This plugin can't work without javascript, because it's use drag and drop "
+"and AJAX."
+msgstr ""
+"Bu eklenti javascript olmadan çalışmaz, çünkü sürükle bırak ve AJAX kullanır"
+
+msgid "Terms"
+msgstr "Koşullar"
+
+msgid "Terms Order Updated"
+msgstr "Koşul Sıralaması Güncellendi"
+
+msgid "SKU"
+msgstr "SKU"
+
+msgid "Display Sort Order"
+msgstr "Görüntüleme Sıralama Düzeni"
+
+msgid "Enter a comma separated list of numbers"
+msgstr "Ayrı sayı listelerinin arasına virgül koyun"
+
+msgid "Attributes for printing price matrix for"
+msgstr "Ücret matrisi yazdırma öznitelikleri"
+
+msgid "Attributes for finishing price matrix for"
+msgstr "Ücret matrisi kaplama öznitelikleri"
+
+msgid "Prices for Printing for"
+msgstr "Yazdırma Ücretleri"
+
+msgid "Prices for Finishing for"
+msgstr "Kaplama Ücretleri"
+
+msgid "Min quantity is"
+msgstr "Minimum quantity is"
+
+msgid "Help text for field Size attribute"
+msgstr "Boyut özniteliği alanı için yardım metni"
+
+msgid "Help text for field Colour attribute"
+msgstr "Renk özniteliği alanı için yardım metni"
+
+msgid "Help text for field Material attribute"
+msgstr "Materyal özniteliği alanı için yardım metni"
+
+msgid "Help text for field Printing attributes"
+msgstr "Yazdırma özniteliği alanı için yardım metni"
+
+msgid "Help text for field Finishing attributes"
+msgstr "Kaplama özniteliği alanı için yardım metni"
+
+msgid "Help text for field Attributes sort order"
+msgstr "Sıralama Düzeni özniteliği alanı için yardım metni"
+
+msgid "Help text for field Attributes"
+msgstr "Öznitelikler alanı için yardım metni"
+
+msgid "Help text for field Quantities"
+msgstr "Adetler alanı için yardım metni"
+
+msgid "Help text for field Quantity display style"
+msgstr "Adet görüntüleme tarzı alanı için yardım metni"
+
+msgid "Help text for field Proportional quantity"
+msgstr "Oransal adet alanı için yardım metni"
+
+msgid "Help text for field Display Sort Order"
+msgstr "Görüntüleme Sıralama Düzeni alanı için yardım metni"
+
+msgid "Help text for field License Key"
+msgstr "Lisans Anahtarı alanı için yardım metni"
+
+msgid "Help text for field S3 Access Key"
+msgstr "S3 Erişim Anahtarı alanı için yardım metni"
+
+msgid "Help text for field S3 Secret Key"
+msgstr "S3 Gizli Anahtarı alanı için yardım metni"
+
+msgid "Help text for field S3 Bucketname"
+msgstr "S3 Kova Adı alanı için yardım metni"
+
+msgid "Help text for field S3 Path"
+msgstr "S3 Yolu alanı için yardım metni"
+
+msgid "Help text for field Attribute prefix"
+msgstr "Öznitelik öneki alanı için yardım metni"
+
+msgid "Base Quantity"
+msgstr "Temel Adet"
+
+msgid "File source"
+msgstr "Dosya kaynağı"
+
+msgid "Customer uploads file"
+msgstr "Müşteri dosya karşıya yükleme"
+
+msgid "No file upload required"
+msgstr "Dosya karşıya yükleme gerektirmez"
+
+msgid "Designer configuration"
+msgstr "Tasarımcı yapılandırması"
+
+msgid "Product ID"
+msgstr "Ürün ID'si"
+
+msgid "Template ID"
+msgstr "Şablon ID'si"
+
+msgid "Default value for quantity"
+msgstr ""
+
+msgid "Default value for quantity field"
+msgstr ""
+
+msgid "File upload max size"
+msgstr ""
+
+msgid "Upload your own design"
+msgstr ""
+
+msgid "Display Weight"
+msgstr ""
+
+msgid "Display Price"
+msgstr ""
+
+msgid "Include tax price"
+msgstr ""
+
+msgid "Exclude tax price"
+msgstr ""
+
+msgid "Include tax and Exclude tax prices"
+msgstr ""
+
+msgid "including tax"
+msgstr ""
+
+msgid "excluding tax"
+msgstr ""
+
+msgid "Price Display Include Suffix:"
+msgstr ""
+
+msgid "Price Display Exclude Suffix:"
+msgstr ""
+
+msgid "Define text to show after your product prices (excluding tax). This could be, for example, 'excl. tax' to explain your pricing."
+msgstr ""
+
+msgid "Import Prices"
+msgstr ""
+
+msgid "Export Prices"
+msgstr ""
+
+msgid "Users Groups"
+msgstr ""
+
+msgid "Add Group"
+msgstr ""
+
+msgid "Edit Group"
+msgstr ""
+
+msgid "All"
+msgstr ""
+
+msgid "Group Name"
+msgstr ""
+
+msgid "Users"
+msgstr ""
+
+msgid "Created"
+msgstr ""
+
+msgid "No Groups"
+msgstr ""
+
+msgid "groups"
+msgstr ""
+
+msgid "Bulk Actions"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "Are you sure?"
+msgstr ""
+
+msgid "Theme Settings"
+msgstr ""
+
+msgid "Visible Categories"
+msgstr ""
+
+msgid "Visible Products"
+msgstr ""
+
+msgid "Payment method"
+msgstr ""
+
+msgid "Select Payment method"
+msgstr ""
+
+msgid "Landing page after login"
+msgstr ""
+
+msgid "Landing page after logout"
+msgstr ""
+
+msgid "Email address list"
+msgstr ""
+
+msgid "Tax ID"
+msgstr ""
+
+msgid "Users"
+msgstr ""
+
+msgid "Submit"
+msgstr ""
+
+msgid "Logo"
+msgstr ""
+
+msgid "Site Background"
+msgstr ""
+
+msgid "Top bar background color"
+msgstr ""
+
+msgid "Logo and menu background"
+msgstr ""
+
+msgid "Footer background color"
+msgstr ""
+
+msgid "Content Background"
+msgstr ""
+
+msgid "Products background"
+msgstr ""
+
+msgid "Products text color"
+msgstr ""
+
+msgid "Group Name is required field."
+msgstr ""
+
+msgid "User Group"
+msgstr ""
+
+msgid "Group"
+msgstr ""
+
+msgid "Select Group"
+msgstr ""
+
+msgid "Image"
+msgstr ""
+
+msgid "Upload"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "Display attribute images"
+msgstr ""
+
+msgid "Image size: 100px x 80px"
+msgstr ""
+
+msgid "Homepage Slider"
+msgstr ""
+
+msgid "No Slider"
+msgstr ""
+
+msgid "Shipping amount"
+msgstr ""
+
+msgid "Flat Rate Shipping"
+msgstr ""
+
+msgid "Tax rate"
+msgstr ""
+
+msgid "Invoice Payment Method"
+msgstr ""
+
+msgid "Enable Invoice payment"
+msgstr ""
+
+msgid "Orders Approving"
+msgstr ""
+
+msgid "Group Users"
+msgstr ""
+
+msgid "Username"
+msgstr ""
+
+msgid "Superuser"
+msgstr ""
+
+msgid "Rounding"
+msgstr ""
+
+msgid "Awaiting approval"
+msgstr ""
+
+msgid "Approved for production"
+msgstr ""
+
+msgid "Rejected for production"
+msgstr ""
+
+msgid "Approved on"
+msgstr ""
+
+msgid "Rejected on"
+msgstr ""
+
+msgid "Orders Email Contents"
+msgstr ""
+
+msgid "Email title for mail to superuser for new order pending approval"
+msgstr ""
+
+msgid "Email body for mail to superuser for new order pending approval"
+msgstr ""
+
+msgid "Email title to user following order rejection"
+msgstr ""
+
+msgid "Email body to user following order rejection"
+msgstr ""
+
+msgid "Order Details"
+msgstr ""
+
+msgid "Order"
+msgstr ""
+
+msgid "Order Date"
+msgstr ""
+
+msgid "Payment"
+msgstr ""
+
+msgid "Customer Details"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+msgid "Phone"
+msgstr ""
+
+msgid "IP Address"
+msgstr ""
+
+msgid "Billing Details"
+msgstr ""
+
+msgid "Shipping Details"
+msgstr ""
+
+msgid "Items Details"
+msgstr ""
+
+msgid "Item"
+msgstr ""
+
+msgid "Cost"
+msgstr ""
+
+msgid "Qty"
+msgstr ""
+
+msgid "Total"
+msgstr ""
+
+msgid "Subtotal"
+msgstr ""
+
+msgid "Shipping"
+msgstr ""
+
+msgid "Order Total"
+msgstr ""
+
+msgid "Comments"
+msgstr ""
+
+msgid "Approve"
+msgstr ""
+
+msgid "Reject"
+msgstr ""
+
+msgid "You aren't allowed to view this order."
+msgstr ""
+
+msgid "Orders awaiting approval"
+msgstr ""
+
+msgid "Order #"
+msgstr ""
+
+msgid "Author"
+msgstr ""
+
+msgid "Purchased"
+msgstr ""
+
+msgid "Total"
+msgstr ""
+
+msgid "Date"
+msgstr ""
+
+msgid "No orders."
+msgstr ""
+
+msgid "Order was successfully approved."
+msgstr ""
+
+msgid "Order was successfully rejected."
+msgstr ""
+
+msgid "Product List Prices"
+msgstr ""
+
+msgid "Disable Product List Price"
+msgstr ""
+
+msgid "Check checkbox if you want to hide product prices on list."
+msgstr ""

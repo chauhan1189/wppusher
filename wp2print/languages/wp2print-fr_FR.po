@@ -1,0 +1,1865 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wp2print 1.0.5\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-06-25 14:15+0200\n"
+"Language-Team: French (France)\n"
+"X-Generator: Poedit 2.0.8\n"
+"POT-Creation-Date: 2018-06-20 14:08+0000\n"
+"Last-Translator: John Weissberg <jw@printscience.com>\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"Language: fr_FR\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Report-Msgid-Bugs-To: \n"
+
+#: print products translation
+msgid "Price Matrix Options"
+msgstr "Options de matrice de prix"
+
+msgid "Price Matrix Values"
+msgstr "Valeurs de matrice de prix"
+
+msgid "Attributes Options"
+msgstr "Options des attributs"
+
+msgid "Matrix Options"
+msgstr "Options de matrice"
+
+msgid "Prices"
+msgstr "Prix"
+
+msgid "Area product"
+msgstr "Produit de surface variable"
+
+msgid "Fixed size product"
+msgstr "Produit de dimension fixe"
+
+msgid "Book product"
+msgstr "Production de livres"
+
+msgid "AEC Plan product"
+msgstr ""
+
+msgid "Printing matrix"
+msgstr "Matrice d'impression"
+
+msgid "Finishing matrix"
+msgstr "Matrice de finition"
+
+msgid "Print Options"
+msgstr "Options d'impression"
+
+msgid "Finishing Options"
+msgstr "Options de finition"
+
+msgid "Quantity"
+msgstr "Quantité"
+
+msgid "Total Pages"
+msgstr "Pages totales"
+
+msgid "Total Area"
+msgstr "Superficie totale"
+
+msgid "Total Perimeter"
+msgstr "Périmètre total"
+
+msgid "Total Width"
+msgstr "Largeur totale"
+
+msgid "Black/White Pages"
+msgstr "Pages en noir et blanc"
+
+msgid "Colour Pages"
+msgstr "Pages en couleur"
+
+msgid "None"
+msgstr "Aucun"
+
+msgid "No"
+msgstr "Non"
+
+msgid "Please publish product before adding matrix options."
+msgstr "Prière de publier le produit avant d'ajouter des options de matrice"
+
+msgid "Width"
+msgstr "Largeur"
+
+msgid "Height"
+msgstr "Hauteur"
+
+msgid "Min Width"
+msgstr "Largeur minimale"
+
+msgid "Max Width"
+msgstr "Largeur maximale"
+
+msgid "Min Height"
+msgstr "Hauteur minimale"
+
+msgid "Max Height"
+msgstr "Hauteur maximale"
+
+msgid "Min Quantity"
+msgstr "Quantité minimale"
+
+msgid "Title"
+msgstr "Titre"
+
+msgid "Type"
+msgstr "Type"
+
+msgid "Attributes"
+msgstr "Attributs"
+
+msgid "Quantities"
+msgstr "Quantités"
+
+msgid "Total Areas"
+msgstr "Superficies totales"
+
+msgid "Total Perimeters"
+msgstr "Périmètres totaux"
+
+msgid "Total Widths"
+msgstr "Largeurs totales"
+
+msgid "Proportional quantity"
+msgstr "Quantité proportionnelle"
+
+msgid "Quantity display style"
+msgstr "Quantité de style d'affichage"
+
+msgid "Attribute prefix"
+msgstr "Préfixe d'attribut"
+
+msgid "Prefix text for attribute label"
+msgstr "Texte de préfixe pour étiquette d'attribut"
+
+msgid "Textfield"
+msgstr "Champ de texte"
+
+msgid "Dropdown"
+msgstr "Déroulant"
+
+msgid "Books quantity display style"
+msgstr ""
+
+msgid "Books quantity numbers"
+msgstr ""
+
+msgid "Pages quantity display style"
+msgstr ""
+
+msgid "Pages quantity numbers"
+msgstr ""
+
+msgid "Sort"
+msgstr "Trier"
+
+msgid "Attribute sort order"
+msgstr "Ordre de tri"
+
+msgid "Action"
+msgstr "Action"
+
+msgid "edit"
+msgstr "éditer"
+
+msgid "delete"
+msgstr "effacer"
+
+msgid "Are you sure?"
+msgstr "Êtes-vous sûr ?"
+
+msgid "No Price Matrix Options"
+msgstr "Aucune option de matrice de prix"
+
+msgid "Add new printing price matrix"
+msgstr "Ajouter une nouvelle matrice de prix d'impression"
+
+msgid "Add new finishing price matrix"
+msgstr "Ajouter une nouvelle matrice de prix de finition"
+
+msgid "Please publish product before adding price matrix."
+msgstr "Prière de publier un produit avant d'ajouter une matrice de prix"
+
+msgid "Select price matrix type"
+msgstr "Sélectionner un type de matrice de prix"
+
+msgid "You must create Price Matrix Options first."
+msgstr "Vous devez d'abord créer les options de matrice de prix"
+
+msgid "Settings Saved."
+msgstr "Paramètres sauvegardés"
+
+msgid "File upload target"
+msgstr "Téléchargement de fichier cible"
+
+msgid "Host server"
+msgstr "Serveur-hôte"
+
+msgid "Amazon S3"
+msgstr "Amazon S3"
+
+msgid "S3 Access Key"
+msgstr "Clé d'accès S3"
+
+msgid "S3 Secret Key"
+msgstr "Clé secrète S3"
+
+msgid "S3 Bucketname"
+msgstr "Nom du S3"
+
+msgid "S3 Path"
+msgstr "Chemin du S3"
+
+msgid "S3 Region"
+msgstr "Région de Amazon S3"
+
+msgid "Save Settings"
+msgstr "Sauvegarder les paramètres"
+
+msgid "Material"
+msgstr "Matériel"
+
+msgid "Weight"
+msgstr "Poids"
+
+msgid "Download"
+msgstr "Téléchargement"
+
+msgid "View"
+msgstr "Vue"
+
+msgid "Add"
+msgstr "Ajouter"
+
+msgid "Update"
+msgstr "Mise à jour"
+
+msgid "Save"
+msgstr "Sauvegarder"
+
+msgid "Settings were successfully saved."
+msgstr "Les paramètres ont été sauvegardés avec succès"
+
+msgid "Product Attributes"
+msgstr "Attributs du produit"
+
+msgid "Size attribute"
+msgstr "Attribut de taille"
+
+msgid "Colour attribute"
+msgstr "Attribut de couleur"
+
+msgid "Material attribute"
+msgstr "Attribut de matériel"
+
+msgid "Page Count attribute"
+msgstr "Attribut de nombre de pages"
+
+msgid "Printing attributes"
+msgstr "Attributs d'impression"
+
+msgid "Finishing attributes"
+msgstr "Attributs de finition"
+
+msgid "Attributes sort order"
+msgstr "Attributs d'ordre de tri"
+
+msgid "Price Matrix Values for"
+msgstr "Matrice de prix des valeurs pour"
+
+msgid "Size"
+msgstr "Taille"
+
+msgid "Option"
+msgstr "Option"
+
+msgid "Option item"
+msgstr "Élément d'option"
+
+msgid "min"
+msgstr "min"
+
+msgid "max"
+msgstr "max"
+
+msgid "Price"
+msgstr "Prix"
+
+msgid "DESIGN ONLINE"
+msgstr "CRÉATION EN LIGNE"
+
+msgid "ADD TO CART"
+msgstr "AJOUTER AU PANIER"
+
+msgid "Min width is"
+msgstr "La largeur minimale est"
+
+msgid "Max width is"
+msgstr "La largeur maximale est"
+
+msgid "Min height is"
+msgstr "La hauteur minimale est"
+
+msgid "Max height is"
+msgstr "La hauteur maximale est"
+
+msgid ""
+"This combination of size and material not offered. Please select another."
+msgstr ""
+"La combinaison de taille et matériel n'est pas offerte. Choisissez une autre "
+"sélection."
+
+msgid "Please enter correct quantity of bound books."
+msgstr "Entrer la bonne quantité de livres reliés"
+
+msgid "Please enter correct quantity of pages."
+msgstr "Entrer la bonne quantité de pages"
+
+msgid "Please select artwork files"
+msgstr "Sélectionner les fichiers graphiques"
+
+msgid "Select files"
+msgstr "Vos fichiers"
+
+msgid "Upload files"
+msgstr "Télécharger des fichiers"
+
+msgid "CONTINUE >>"
+msgstr "POURSUIVRE >>"
+
+msgid "Upload error"
+msgstr "Erreur de téléchargement"
+
+msgid "Artwork Files"
+msgstr "Fichiers graphiques"
+
+msgid "Designer File"
+msgstr "Fichier de conception"
+
+msgid "Quantity of bound books"
+msgstr "Quantité de livres reliés"
+
+msgid "Pages Quantity"
+msgstr "Quantité de pages"
+
+msgid "Please add product attributes."
+msgstr "Ajouter des attributs de produit"
+
+msgid "Please add attribute terms."
+msgstr "Ajouter des termes d'attribut"
+
+msgid "Please check attributes options."
+msgstr "Vérifier les options d'attributs"
+
+msgid "Back"
+msgstr "Arrière"
+
+msgid "From"
+msgstr "De"
+
+msgid ""
+"`Woocommerce plugin` is required for `wp2print` plugin. Please install it."
+msgstr ""
+"Le plug-in 'Woocommerce' est requis pour le plug-in 'wp2print'. Veuillez "
+"l'installer."
+
+msgid ""
+"`Woocommerce plugin` is required for `wp2print` plugin. Please activate it."
+msgstr ""
+
+msgid ""
+"`Print Science Designer` plugin is required for `wp2print` plugin. Please "
+"install it."
+msgstr ""
+"Le plug-in 'Print Science Designer' est requis pour le plug-in 'wp2print'. "
+"Veuillez l'installer."
+
+msgid ""
+"`Category Order and Taxonomy Terms Order` plugin is required for `wp2print` "
+"plugin. Please install it."
+msgstr ""
+"Le plug-in `Category Order and Taxonomy Terms Order` est requis pour le plug-"
+"in 'wp2print'. Veuillez l'installer."
+
+msgid "Please visit <a href='%s'>this page</a> and enter your license code"
+msgstr "Visitez <a href=‘%s’>cette page</a> et saisissez votre code de licence"
+
+msgid "Please enter the license key for `wp2print` plugin to activate it."
+msgstr "Entrez la clé de licence pour activer le plug-in `wp2print`"
+
+msgid "You can deactivate the license key for `wp2print` plugin."
+msgstr ""
+"Vous pouvez désactiver votre clé de licence pour le plug-in  `wp2print`"
+
+msgid "wp2print Settings"
+msgstr "Paramètres wp2print"
+
+msgid "License"
+msgstr "Licence"
+
+msgid "File uploads"
+msgstr "Chargements de fichiers"
+
+msgid "License Key"
+msgstr "Clé de licence"
+
+msgid "Activate"
+msgstr "Activer"
+
+msgid "Deactivate"
+msgstr "Désactiver"
+
+msgid "License Key was successfully activated."
+msgstr "La clé de licence a été activée avec succès."
+
+msgid "License Key was successfully deactivated."
+msgstr "La clé de licence a été désactivée avec succès."
+
+msgid "File uploads settings were successfully saved"
+msgstr ""
+"Les paramètres de chargements de fichiers ont été sauvegardés avec succès"
+
+msgid "Sort Order"
+msgstr "Ordre de tri"
+
+msgid "Taxonomy"
+msgstr "Taxonomie"
+
+msgid "Products Attributes"
+msgstr "Attributs des produits"
+
+msgid ""
+"This plugin can't work without javascript, because it's use drag and drop "
+"and AJAX."
+msgstr ""
+"Ce plug-in ne peut fonctionner sans javascript parce qu'il utilise la "
+"fonction 'glisser-déposer' et AJAX"
+
+msgid "Terms"
+msgstr "Termes"
+
+msgid "Terms Order Updated"
+msgstr "Conditions de commande mises à jour"
+
+msgid "SKU"
+msgstr "SKU"
+
+msgid "Display Sort Order"
+msgstr "Afficher l'ordre de tri"
+
+msgid "Enter a comma separated list of numbers"
+msgstr "Entrer une virgule pour séparer une liste de nombres"
+
+msgid "Attributes for printing price matrix for"
+msgstr "Attributs de la matrice de prix d'impression pour"
+
+msgid "Attributes for finishing price matrix for"
+msgstr "Attributs de la matrice de prix de finition pour"
+
+msgid "Prices for Printing for"
+msgstr "Prix pour impression pour"
+
+msgid "Prices for Finishing for"
+msgstr "Prix pour finition pour"
+
+msgid "Min quantity is"
+msgstr "La quantité minimale est"
+
+msgid "Base Quantity"
+msgstr "Quantité de base"
+
+msgid "File source"
+msgstr "Source de fichier"
+
+msgid "Customer uploads file"
+msgstr "Le client télécharge un fichier"
+
+msgid "No file upload required"
+msgstr "Aucun téléchargement de fichier n'est requis"
+
+msgid "Designer configuration"
+msgstr "Configuration du concepteur"
+
+msgid "Product ID"
+msgstr "Identification du produit"
+
+msgid "Template ID"
+msgstr "Identification du modèle"
+
+msgid "Default value for quantity"
+msgstr "Valeur par défaut pour quantité"
+
+msgid "Default value for quantity field"
+msgstr "Valeur par défaut du champ: Quantité"
+
+msgid "File upload max size"
+msgstr "Taille maximum de téléchargement"
+
+msgid "Upload your own design"
+msgstr "Télécharger vos fichiers"
+
+msgid "Display Weight"
+msgstr "Afficher le poids"
+
+msgid "Display Price"
+msgstr "Afficher le prix"
+
+msgid "Include tax price"
+msgstr ""
+
+msgid "Exclude tax price"
+msgstr ""
+
+msgid "Include tax and Exclude tax prices"
+msgstr ""
+
+msgid "including tax"
+msgstr "TTC"
+
+msgid "excluding tax"
+msgstr "HT"
+
+msgid "Price Display Include Suffix:"
+msgstr ""
+
+msgid "Price Display Exclude Suffix:"
+msgstr ""
+
+msgid ""
+"Define text to show after your product prices (excluding tax). This could "
+"be, for example, 'excl. tax' to explain your pricing."
+msgstr ""
+
+msgid "Import Prices"
+msgstr "Importer tableur de prix"
+
+msgid "Export Prices"
+msgstr "Exporter tableur de prix"
+
+msgid "Users Groups"
+msgstr "Groupes d’utilisateurs"
+
+msgid "Add Group"
+msgstr "Ajouter groupe"
+
+msgid "Edit Group"
+msgstr "Editer groupe"
+
+msgid "All"
+msgstr "Tout"
+
+msgid "Group Name"
+msgstr "Nom du groupe"
+
+msgid "Users"
+msgstr "Utilisateurs"
+
+msgid "Created"
+msgstr "Créé"
+
+msgid "No Groups"
+msgstr "Aucun groupe"
+
+msgid "group"
+msgstr "groupe"
+
+msgid "groups"
+msgstr "groupes"
+
+msgid "Bulk Actions"
+msgstr ""
+
+msgid "Delete"
+msgstr "Supprimer"
+
+msgid "Theme Settings"
+msgstr "Réglages du thème"
+
+msgid "Homepage URL for group"
+msgstr ""
+
+msgid "Visible Categories"
+msgstr "Catégories visibles"
+
+msgid "Visible Products"
+msgstr "Produits visibles"
+
+msgid "Payment method"
+msgstr "Methode de paiement"
+
+msgid "Select Payment method"
+msgstr ""
+
+msgid "Landing page after login"
+msgstr ""
+
+msgid "Landing page after logout"
+msgstr ""
+
+msgid "Email address list"
+msgstr ""
+
+msgid "Tax ID"
+msgstr "Identification fiscale"
+
+msgid "Submit"
+msgstr "Sauvegarder"
+
+msgid "Logo"
+msgstr "Logo"
+
+msgid "Site Background"
+msgstr ""
+
+msgid "Top bar background color"
+msgstr ""
+
+msgid "Logo and menu background"
+msgstr ""
+
+msgid "Footer background color"
+msgstr ""
+
+msgid "Content Background"
+msgstr ""
+
+msgid "Products background"
+msgstr ""
+
+msgid "Products text color"
+msgstr ""
+
+msgid "Group Name is required field."
+msgstr "Nom du groupe est un champ obligatoire."
+
+msgid "User Group"
+msgstr "Groupe d’utilisateur"
+
+msgid "Group"
+msgstr "Groupe"
+
+msgid "Select Group"
+msgstr "Sélectionner groupe"
+
+msgid "Image"
+msgstr "Image"
+
+msgid "Upload"
+msgstr "Télécharger"
+
+msgid "Yes"
+msgstr "Oui"
+
+msgid "Display attribute images"
+msgstr "Afficher les images de l’attribut"
+
+msgid "Image size: 100px x 80px"
+msgstr "Taille de l’image : 100px x 80px"
+
+msgid "Homepage Slider"
+msgstr "Diaporama page accueil"
+
+msgid "No Slider"
+msgstr "Aucun diaporama"
+
+msgid "Shipping amount"
+msgstr "Frais de port"
+
+msgid "Flat Rate Shipping"
+msgstr "Taux forfaitaire d’expédition"
+
+msgid "Tax rate"
+msgstr "Taux d’imposition"
+
+msgid "Invoice Payment Method"
+msgstr "Method de paiement: Facture"
+
+msgid "Enable Invoice payment"
+msgstr "Permettre le méthode de paiement: Facture"
+
+msgid "Orders Approving"
+msgstr ""
+
+msgid "Group Users"
+msgstr "Les utilisateurs du groupe"
+
+msgid "Username"
+msgstr "Identifiant"
+
+msgid "Superuser"
+msgstr "Super utilisateur"
+
+msgid "Rounding"
+msgstr "Arrondi"
+
+msgid "Awaiting approval"
+msgstr "En attente de validation"
+
+msgid "Approved for production"
+msgstr "Validé pour la production"
+
+msgid "Rejected for production"
+msgstr "Rejeté pour la production"
+
+msgid "Approved on"
+msgstr "Validé le"
+
+msgid "Rejected on"
+msgstr "Rejeté le"
+
+msgid "Orders Email Contents"
+msgstr ""
+
+msgid "Email title for mail to superuser for new order pending approval"
+msgstr ""
+
+msgid "Email body for mail to superuser for new order pending approval"
+msgstr ""
+
+msgid "Email title to user following order rejection"
+msgstr ""
+
+msgid "Email body to user following order rejection"
+msgstr ""
+
+msgid "Order Details"
+msgstr "Détails de la commande"
+
+msgid "Order"
+msgstr "Commande"
+
+msgid "Order Date"
+msgstr "Date de la commande"
+
+msgid "Payment"
+msgstr "Paiement"
+
+msgid "Customer Details"
+msgstr "Informations clientes"
+
+msgid "Name"
+msgstr "Nom"
+
+msgid "Email"
+msgstr "Adresse email"
+
+msgid "Phone"
+msgstr "Téléphone"
+
+msgid "IP Address"
+msgstr "Adresse IP"
+
+msgid "Billing Details"
+msgstr "Détails de facturation"
+
+msgid "Shipping Details"
+msgstr "Détails de livraison"
+
+msgid "Items Details"
+msgstr "Détails de l’article"
+
+msgid "Item"
+msgstr "Article"
+
+msgid "Cost"
+msgstr "Coût"
+
+msgid "Qty"
+msgstr "Qté"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Subtotal"
+msgstr "Sous-total"
+
+msgid "Shipping"
+msgstr "Frais de port"
+
+msgid "Order Total"
+msgstr "Total de la commande"
+
+msgid "Comments"
+msgstr "Commentaires"
+
+msgid "Approve"
+msgstr "Valider"
+
+msgid "Reject"
+msgstr "Rejeter"
+
+msgid "You aren't allowed to view this order."
+msgstr "Vous n’êtes pas autorisés à voir cet ordre."
+
+msgid "Orders awaiting approval"
+msgstr "Commandes en attente de validation"
+
+msgid "Order #"
+msgstr "Commande #"
+
+msgid "Author"
+msgstr "Auteur"
+
+msgid "Purchased"
+msgstr "Acheté"
+
+msgid "Date"
+msgstr "Date"
+
+msgid "No orders."
+msgstr "Aucun commande trouvée."
+
+msgid "Order was successfully approved."
+msgstr "Commande validé avec succès."
+
+msgid "Order was successfully rejected."
+msgstr "Commande rejetée avec succès."
+
+msgid "Product List Prices"
+msgstr ""
+
+msgid "Disable Product List Price"
+msgstr ""
+
+msgid "Check checkbox if you want to hide product prices on list."
+msgstr ""
+
+msgid "Designer product type"
+msgstr ""
+
+msgid "Select type"
+msgstr ""
+
+msgid "Requires data from Agents database"
+msgstr ""
+
+msgid "Requires data from Agents and Houses databases"
+msgstr ""
+
+msgid "Simple Submit Form"
+msgstr ""
+
+msgid "Form settings were successfully saved."
+msgstr ""
+
+msgid "Form title"
+msgstr ""
+
+msgid "Form success text"
+msgstr ""
+
+msgid "From name"
+msgstr ""
+
+msgid "From email"
+msgstr ""
+
+msgid "Customer email subject"
+msgstr ""
+
+msgid "Customer email heading"
+msgstr ""
+
+msgid "Customer email content"
+msgstr ""
+
+msgid "Admin email subject"
+msgstr ""
+
+msgid "Admin email heading"
+msgstr ""
+
+msgid "Select State"
+msgstr "Sélectionnez le Département ou Région"
+
+msgid "Project Name"
+msgstr "Nom du projet"
+
+msgid "First Name"
+msgstr "Prénom"
+
+msgid "Last Name"
+msgstr "Nom de famille"
+
+msgid "Telephone"
+msgstr "Téléphone"
+
+msgid "Delivery address"
+msgstr "Adresse de livraison"
+
+msgid "Address line 1"
+msgstr "Adresse ligne 1"
+
+msgid "Address line 2"
+msgstr "Adresse ligne 2"
+
+msgid "City"
+msgstr "Ville"
+
+msgid "Country"
+msgstr "Pays"
+
+msgid "State"
+msgstr "Département/Région"
+
+msgid "Zip"
+msgstr "Code postal"
+
+msgid "Postcode"
+msgstr ""
+
+msgid "Select file(s) to upload"
+msgstr "Sélectionnez les fichiers à télécharger"
+
+msgid "Project Name is required field."
+msgstr "Nom du projet est un champ obligatoire."
+
+msgid "First Name is required field."
+msgstr "Prénom est un champ obligatoire."
+
+msgid "Last Name is required field."
+msgstr "Nom de Famille est un champ obligatoire."
+
+msgid "Email is required field."
+msgstr "Adresse email est un champ obligatoire."
+
+msgid "Email is incorrect."
+msgstr "L’adresse email est incorrecte."
+
+msgid "Telephone is required field."
+msgstr "Téléphone est un champ obligatoire."
+
+msgid "Address is required field."
+msgstr "Adresse est un champ obligatoire."
+
+msgid "City is required field."
+msgstr "Ville est est un champ obligatoire."
+
+msgid "Country is required field."
+msgstr "Pays est un champ obligatoire."
+
+msgid "%s is required field."
+msgstr "%s est un champ obligatoire."
+
+msgid "Enable State field"
+msgstr "Activer le champ: Département/Région"
+
+msgid "State field label"
+msgstr "Étiquette du champ: Département/Région"
+
+msgid "Zip field label"
+msgstr "Étiquette de champ: Code Postal"
+
+msgid "Select country"
+msgstr "Sélectionnez votre pays"
+
+msgid "Min. Quantity of Books"
+msgstr ""
+
+msgid "Free Shipping"
+msgstr "Livraison gratuite"
+
+msgid "Use Invoice payment method of zero-value orders"
+msgstr ""
+"Utiliser le méthode de paiement Facture pour les commandes de valeur zéro"
+
+msgid "Allow upload later"
+msgstr "Activer bouton “Télécharger plus tard”"
+
+msgid "Upload later"
+msgstr "Télécharger plus tard"
+
+msgid "Attribute labels"
+msgstr "Étiquettes des attributs"
+
+msgid "Attribute"
+msgstr "Attribut"
+
+msgid "Label"
+msgstr "Étiquette"
+
+msgid "No selected attributes"
+msgstr "Aucun attribut sélectionné"
+
+msgid "Books quantity label"
+msgstr "Étiquette du champ: Quantité de livres"
+
+msgid "Quantity label"
+msgstr "Étiquette du champ: Quantité"
+
+msgid "Width label"
+msgstr "Étiquette du champ: Laize"
+
+msgid "Height label"
+msgstr "Étiquette du champ: Hauteur"
+
+msgid ""
+"This product is not available with the set of options. Please choose another "
+"set of options."
+msgstr ""
+"Ce produit n’est pas disponible avec l’ensemble des options. Veuillez "
+"choisir un autre ensemble d’options."
+
+msgid ""
+"Amazon S3 Region is empty. Please visit <a href='%s'>this page</a> and enter "
+"Amazon S3 Region."
+msgstr ""
+"Amazon S3 région est vide. Visitez <a href=‘%s’>cette page</a> et saisissez "
+"la région de Amazon S3."
+
+msgid "Use theme Printshop for Group"
+msgstr "Employer le thème Printshop pour groupe"
+
+msgid "v2 signature"
+msgstr "signature v2 Amazon S3"
+
+msgid "No Paper Type selected."
+msgstr ""
+
+msgid "Paper Type"
+msgstr ""
+
+msgid "Inc coverage"
+msgstr ""
+
+msgid "Processing..."
+msgstr ""
+
+msgid "Low-cost options"
+msgstr ""
+
+msgid "Page detail"
+msgstr ""
+
+msgid "File Name"
+msgstr ""
+
+msgid "Page"
+msgstr ""
+
+msgid "% Coverage"
+msgstr ""
+
+msgid "Print size"
+msgstr ""
+
+msgid "Printed Area"
+msgstr ""
+
+msgid "Rounded Area"
+msgstr ""
+
+msgid "Price/ft"
+msgstr ""
+
+msgid "Round-up area to nearest"
+msgstr ""
+
+msgid "Full size"
+msgstr ""
+
+msgid "200% - 4x Area"
+msgstr ""
+
+msgid "140% - 2x Area"
+msgstr ""
+
+msgid "70% - 1/2 Area"
+msgstr ""
+
+msgid "50% - 1/4 Area"
+msgstr ""
+
+msgid "Discount"
+msgstr ""
+
+msgid "Clear"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "File"
+msgstr ""
+
+msgid "Files"
+msgstr ""
+
+msgid "Notes"
+msgstr ""
+
+msgid "Buttons CSS class"
+msgstr ""
+
+msgid "Options"
+msgstr ""
+
+msgid "Options were successfully saved."
+msgstr ""
+
+msgid "PDF File(s)"
+msgstr ""
+
+msgid "Update cart"
+msgstr ""
+
+msgid "Uploads configuration"
+msgstr ""
+
+msgid "Maximum file count"
+msgstr ""
+
+msgid "Max files count is"
+msgstr ""
+
+msgid "Allowed file types"
+msgstr ""
+
+msgid "All file types"
+msgstr ""
+
+msgid "Display files in cart as"
+msgstr ""
+
+msgid "Icons"
+msgstr ""
+
+msgid "Filenames"
+msgstr ""
+
+msgid "SKU Matrix"
+msgstr ""
+
+msgid "Printing SKU Matrix"
+msgstr ""
+
+msgid "Price Matrix SKU"
+msgstr ""
+
+msgid "SKU list for Printing for"
+msgstr ""
+
+msgid "Include private categories in listing of all categories"
+msgstr ""
+
+msgid "Include private products in listing of all products"
+msgstr ""
+
+msgid "Single Sign-on"
+msgstr ""
+
+msgid "Enable Single Sign-on"
+msgstr ""
+
+msgid "API Key"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Project name"
+msgstr ""
+
+msgid "Project name cannot be empty."
+msgstr ""
+
+msgid "Coverage % Ranges"
+msgstr ""
+
+msgid "Enable size modification in Low-cost option pop-up"
+msgstr ""
+
+msgid "RapidQuote"
+msgstr ""
+
+msgid "RapidQuotes"
+msgstr ""
+
+msgid "New RapidQuote"
+msgstr ""
+
+msgid "Add RapidQuote"
+msgstr ""
+
+msgid "Customer"
+msgstr ""
+
+msgid "AEC Product"
+msgstr ""
+
+msgid "Send RapidQuote"
+msgstr ""
+
+msgid "Total price"
+msgstr ""
+
+msgid "Date range"
+msgstr ""
+
+msgid "AEC products"
+msgstr ""
+
+msgid "Count of files"
+msgstr ""
+
+msgid "No quotes found."
+msgstr ""
+
+msgid "1 day"
+msgstr ""
+
+msgid "7 days"
+msgstr ""
+
+msgid "30 days"
+msgstr ""
+
+msgid "90 days"
+msgstr ""
+
+msgid "Filter"
+msgstr ""
+
+msgid "Email Subject"
+msgstr ""
+
+msgid "Email Message"
+msgstr ""
+
+msgid "RapidQuote was created and customer email was successfully sent."
+msgstr ""
+
+msgid "Pay Now button text"
+msgstr ""
+
+msgid "Dimensions unit"
+msgstr ""
+
+msgid "Select unit"
+msgstr ""
+
+msgid "Orders missing files"
+msgstr ""
+
+msgid "Items missing files"
+msgstr ""
+
+msgid "Actions"
+msgstr ""
+
+msgid "Add files"
+msgstr ""
+
+msgid "Files were successfully saved."
+msgstr ""
+
+msgid ""
+"This application is not compatible with the Internet Explorer browser. "
+"Please switch to a different browser."
+msgstr ""
+
+msgid ""
+"This application is not compatible with the Safari browser. Please switch to "
+"a different browser."
+msgstr ""
+
+msgid ""
+"Your are running a 32-bit version of your browser. Please limit the files "
+"you upload to a maximum of 30Mb."
+msgstr ""
+
+msgid "Color Pages"
+msgstr ""
+
+msgid "Area B/W"
+msgstr ""
+
+msgid "Pages B/W"
+msgstr ""
+
+msgid "Area Color"
+msgstr ""
+
+msgid "Pages Color"
+msgstr ""
+
+msgid "Original color"
+msgstr ""
+
+msgid "Original size"
+msgstr ""
+
+msgid "Convert"
+msgstr ""
+
+msgid "Print in color"
+msgstr ""
+
+msgid "Print in B/W"
+msgstr ""
+
+msgid "Convert color"
+msgstr ""
+
+msgid "Analyzing file"
+msgstr ""
+
+msgid "Autoregister domain name"
+msgstr ""
+
+msgid "Login code"
+msgstr ""
+
+msgid "Login code required for login"
+msgstr ""
+
+msgid "Login code is required for login."
+msgstr ""
+
+msgid "Login is rejected."
+msgstr ""
+
+msgid "S3 Files Access"
+msgstr ""
+
+msgid "Public"
+msgstr ""
+
+msgid "Private"
+msgstr ""
+
+msgid "Group Addresses"
+msgstr ""
+
+msgid "Billing Addresses"
+msgstr ""
+
+msgid "Shipping Addresses"
+msgstr ""
+
+msgid "Add New"
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+msgid "No billing addresses."
+msgstr ""
+
+msgid "No shipping addresses."
+msgstr ""
+
+msgid "Add address"
+msgstr ""
+
+msgid "Edit address"
+msgstr ""
+
+msgid "All fields are required."
+msgstr ""
+
+msgid "Company"
+msgstr ""
+
+msgid "Select a country"
+msgstr ""
+
+msgid "Street address"
+msgstr ""
+
+msgid "Save address"
+msgstr ""
+
+msgid "Predefined addresses"
+msgstr ""
+
+msgid "Select address"
+msgstr ""
+
+msgid "Help text"
+msgstr ""
+
+msgid "Display attributes help icon"
+msgstr ""
+
+msgid "Send proof"
+msgstr ""
+
+msgid "Please select PDF file(s)"
+msgstr ""
+
+msgid "Approval"
+msgstr ""
+
+msgid "Approval order email was successfully sent."
+msgstr ""
+
+msgid "Download your proofs"
+msgstr ""
+
+msgid "Email Options"
+msgstr ""
+
+msgid "Approval order email"
+msgstr ""
+
+msgid "Email options were successfully saved."
+msgstr ""
+
+msgid "Order details"
+msgstr ""
+
+msgid "Approval of proofs"
+msgstr ""
+
+msgid "Allow users to modify group"
+msgstr ""
+
+msgid "Display cart upload button"
+msgstr ""
+
+msgid "Cart upload button text"
+msgstr ""
+
+msgid "Upload your database"
+msgstr ""
+
+msgid "Modify"
+msgstr ""
+
+msgid "Allow superusers to modify Designer PDF files"
+msgstr ""
+
+msgid "Re-edit"
+msgstr ""
+
+msgid "Print"
+msgstr ""
+
+msgid "Job-ticket"
+msgstr ""
+
+msgid "Job-ticket excludes prices"
+msgstr ""
+
+msgid "Job-ticket options were successfully saved."
+msgstr ""
+
+msgid "Email address"
+msgstr ""
+
+msgid "Email Quote"
+msgstr ""
+
+msgid "Please enter email address."
+msgstr ""
+
+msgid "Email address is incorrect."
+msgstr ""
+
+msgid "We have mailed a quotation to you."
+msgstr ""
+
+msgid "Enable Widget"
+msgstr ""
+
+msgid "Message Heading"
+msgstr ""
+
+msgid "Message Top Text"
+msgstr ""
+
+msgid "Message Bottom Text"
+msgstr ""
+
+msgid "Disable widget in Private Stores"
+msgstr ""
+
+msgid "Email quote options were successfully saved."
+msgstr ""
+
+msgid "Product"
+msgstr ""
+
+msgid "URL"
+msgstr ""
+
+msgid "Vendor assignment"
+msgstr ""
+
+msgid "Vendor Information"
+msgstr ""
+
+msgid "Select Vendor"
+msgstr ""
+
+msgid "Vendor order email"
+msgstr ""
+
+msgid "Printshop Address for Vendor shipments"
+msgstr ""
+
+msgid "Printshop Address for Vendor billing"
+msgstr ""
+
+msgid "Use printshop billing address in place of customer billing address"
+msgstr ""
+
+msgid "Vendor options were successfully saved."
+msgstr ""
+
+msgid "Dropship to customer"
+msgstr ""
+
+msgid "Ship to printshop"
+msgstr ""
+
+msgid "Email Header"
+msgstr ""
+
+msgid "Email Top Text"
+msgstr ""
+
+msgid "Vendor email options"
+msgstr ""
+
+msgid "Help text for field Size attribute"
+msgstr "Choisissez l’attribut qui représente la Taille du produit"
+
+msgid "Help text for field Colour attribute"
+msgstr "Choisissez l’attribut qui représente la Couleur du produit"
+
+msgid "Help text for field Material attribute"
+msgstr "Choisissez l’attribut qui représente le Matériel du produit"
+
+msgid "Help text for field Page Count attribute"
+msgstr "Choisissez l’attribut qui représente le Nombre de Pages du produit"
+
+msgid "Help text for field Printing attributes"
+msgstr ""
+"Choisissez les attributs qui doivent être engagés dans le processus "
+"d’impression du produit. Ils doivent être différent que les attributs "
+"utilisés dans les finitions du produit"
+
+msgid "Help text for field Finishing attributes"
+msgstr ""
+"Choisissez les attributs qui doivent être engagés dans les finitions du "
+"produit. Ils doivent être différent que les attributs utilisés dans le "
+"processus d’impression du produit"
+
+msgid "Help text for field Attributes sort order"
+msgstr ""
+"Modifier l’ordre de tri des attributs dans la liste de haut en bas (0 est en "
+"haut, à la première place)"
+
+msgid "Help text for field Attributes"
+msgstr ""
+"Choisissez l’attribut que vous souhaitez utiliser pour la matrice de prix. "
+"Vous pouvez en choisir plusieurs"
+
+msgid "Help text for field Attribute prefix"
+msgstr ""
+"Choisissez le préfixe qui va être mis au début du nom de l’attribut. Ceci "
+"est utilisé généralement seulement pour les produits qui offrent une "
+"combinaison d’impression en Blanc, Noir et Couleur. Dans ce cas, le préfixe "
+"utilisé serait “N/B” et “Couleur”"
+
+msgid "Help text for field Quantity display style"
+msgstr ""
+"Choisissez le style de présentation des quantités. L’option “textfield” "
+"offre au client la possibilité d’entrer la quantité qu’il souhaite, hors "
+"l’option “dropdown” force le client à utiliser les quantités que vous offrez"
+
+msgid "Help text for field Proportional quantity"
+msgstr ""
+"Choisissez la sorte de mesure que représente la quantité, ceci dépend "
+"fortement sur le type de produit que vous vendez"
+
+msgid "Help text for field Quantities"
+msgstr ""
+"Entrez les quantités que vous voulez offrir. Vous pouvez en ajouter autant "
+"que vous voulez, souvenez vous de séparer chaque nombre par une virgule "
+"comme ceci: 250,500,750,1000 etc. Si vous voulez que vos clients entrent "
+"leurs propres quantités, laissez ce champ vide et mettez le Style de "
+"Présentation des Quantités sur textfield"
+
+msgid "Help text for field Default value for quantity"
+msgstr "Choisissez la quantité sélectionné par défaut "
+
+msgid "Help text for field Display Sort Order"
+msgstr ""
+"Choisissez l’ordre de tri de cette matrice de prix dans la liste de haut en "
+"bas (0 est en haut, en première place)"
+
+msgid "Help text for field License Key"
+msgstr ""
+"Après avoir acheté wp2print, vous allez recevoir un code d’activation de "
+"Print Science ou de votre revendeur. Insérez le code d’activation que vous "
+"avez reçu ici"
+
+msgid "Help text for field File upload target"
+msgstr ""
+"Choisissez le système utilisé pour uploader des fichiers. Vous devriez "
+"choisir Amazon S3. Si vous n’avez pas créé une bucket AWS S3, notre "
+"documentation a une procédure pas à pas pour vous aider"
+
+msgid "Help text for field S3 Access Key"
+msgstr ""
+"Entrez la clé d’accès que vous avez reçu après avoir créé un nouveau "
+"utilisateur IAM dans AWS. Ceci est utilisé pour accéder votre bucket Amazon "
+"S3"
+
+msgid "Help text for field S3 Secret Key"
+msgstr ""
+"Entrez la clé secrète que vous avez reçu après avoir créé un nouveau "
+"utilisateur IAM dans AWS. Ceci est utilisé pour accéder votre bucket Amazon "
+"S3"
+
+msgid "Help text for field S3 Bucketname"
+msgstr "Entrez le nom de la bucket AWS S3 que vous souhaitez utiliser"
+
+msgid "Help text for field S3 Region"
+msgstr ""
+"Sélectionnez la région de la bucket AWS S3 que vous avez choisi en créant la "
+"bucket, généralement c’est la région la plus proche de vous"
+
+msgid "Help text for field S3 Path"
+msgstr ""
+"Le “Chemin” vous permet d’organiser les fichiers en dossiers. Nous vous "
+"recommandons d’utiliser soit “Date/Username” ou “Username/Date” comme option "
+"d’organisation"
+
+msgid "Help text for field S3 Files Access"
+msgstr ""
+"Choisissez si les fichiers doivent être accessible de manière publique ou "
+"privée. Vous devriez choisir “Private” comme option puisque les fichiers qui "
+"vont être uploadés ne doivent pas être accessible par n’importe qui"
+
+msgid "Help text for field File upload max size"
+msgstr "Entrez la taille de fichier maximum permis pour uploader"
+
+msgid "Help text for field Form title"
+msgstr ""
+"Entrez le titre qui apparaitra au dessus du formulaire. Le titre sera en "
+"gras et dans une taille de police plus grande. Vous pouvez écrire “Entrer "
+"votre information s’il vous plait” par exemple"
+
+msgid "Help text for field Form success text"
+msgstr ""
+"Entrez le message qui apparaitra lorsque le formulaire à été remplis et "
+"envoyé correctement. Vous pouvez écrire “Merci d’avoir envoyé votre demande. "
+"Nous vous contacterons bientôt avec une citation détaillé” par exemple"
+
+msgid "Help text for field Default country"
+msgstr ""
+"Entrez le pays qui sera sélectionné par défaut. Ceci peut être par exemple "
+"le pays que la plupart de vos clients commandent depuis"
+
+msgid "Help text for field Enable State field"
+msgstr ""
+"Activez ou désactivez l’option d’ajouter l’État. Ceci est utilisé lorsque le "
+"pays sélectionné est les États Unis, pour ajouter des détails dans l’adresse"
+
+msgid "Help text for field State field label"
+msgstr ""
+"Entrez le titre de la boite de texte “État” pour le formulaire. Ceci "
+"apparaitra avant la boite de texte ou les client peuvent entrer l’état. Vous "
+"pouvez simplement écrire “État” par exemple"
+
+msgid "Help text for field Zip field label"
+msgstr ""
+"Entrez le titre de la boite de texte “Code Postal” pour le formulaire. Ceci "
+"apparaitra avant la boite de texte ou les client peuvent entrer leur code "
+"postal. Vous pouvez simplement écrire “Code Postal” par exemple"
+
+msgid "Help text for field Customer email subject"
+msgstr ""
+"Entrer le sujet de l’email envoyé au client après complétion du formulaire"
+
+msgid "Help text for field Customer email heading"
+msgstr ""
+"Entrer le texte en tête de l’email envoyé au client après complétion du "
+"formulaire. Le texte en tête est un rectangle coloré avec du texte en grande "
+"police à l’intérieur, qui apparait en haut de l’email. Ceci est surement ce "
+"que le client va lire en premier."
+
+msgid "Help text for field Customer email content"
+msgstr ""
+"Entrer le contenu de l’email envoyé au client après complétion du "
+"formulaire. Ce texte apparaitra en taille de police normale en dessous du "
+"texte en tête de l’email. Ici vous pouvez confirmer avec le client qu’ils "
+"ont remplis et envoyé le formulaire correctement"
+
+msgid "Help text for field Admin email subject"
+msgstr ""
+"Entrer le sujet de l’email envoyé a l’admin après complétion du formulaire "
+"par un client. Ceci peut être “Nouvelle demande reçu via wp2print” par "
+"exemple"
+
+msgid "Help text for field Admin email heading"
+msgstr ""
+"Entrer le texte en tête de l’email envoyé a l’admin après complétion du "
+"formulaire par un client. Le texte en tête est un rectangle coloré avec du "
+"texte en grande police à l’intérieur, qui apparait en haut de l’email. Ceci "
+"peut être le même texte que le sujet de l’email par exemple"
+
+msgid "Help text for field Buttons CSS class"
+msgstr ""
+"Entrez la class CSS qui va être utilisé pour l’affichage des boutons dans "
+"cette boutique privée"
+
+msgid "Help text for field Display files in cart as"
+msgstr ""
+"Choisissez comment les fichiers doivent apparaitre dans le panier. L’option "
+"“Filename” va simplement afficher le nom des fichiers, hors l’option “Icon” "
+"affichera un petit icon de fichier avec le nom du fichier. Ceci n’affecte "
+"rien d’autre que l’apparence"
+
+msgid "Help text for field Display attributes help icon"
+msgstr ""
+"Choisissez si l’icon d’aide devrait être affiché ou non à côté de chaque "
+"attribut dans la page de produit"
+
+msgid "Help text for field Allow users to modify group"
+msgstr ""
+"Choisissez si l’utilisateur peut voir et modifier le groupe leur compte est "
+"attribué à"
+
+msgid "Help text for field Enable Single Sign-on"
+msgstr ""
+"Choisissez si “Single Sign-on” doit être activé. Ceci est utile pour par "
+"exemple si vous avez 2 sites et vous ne voulez pas que vos clients doivent "
+"s’enregistrer sur les deux sites avec leur pseudonyme et password"
+
+msgid "Help text for field API Key"
+msgstr ""
+"Entrez la clé API que vous voulez utiliser pour le système “Single Sign-on”. "
+"Cette clé peut être ce que vous voulez mais il est important que les autres "
+"sites utilisent la même clé"
+
+msgid "Help text for field Coverage % Ranges"
+msgstr ""
+"Ceci fait référence au pourcentage d’encre qui couvre le document, un "
+"pourcentage plus élevé signifie que le document est couvert par plus d’encre"
+
+msgid "Help text for field Dimensions unit"
+msgstr "Choisissez l’unité à utiliser pour les dimensions"
+
+msgid "Help text for field Enable size modification in Low-cost option pop-up"
+msgstr ""
+"Dans la fenêtre qui affiche l’analyse de la taille et du contenu des "
+"fichiers PDF, choisissez si le site affichera un menu dropdown à "
+"l’utilisateur qui permet à celui-ci de modifier la taille d’impression pour "
+"chaque page dans chaque PDF"
+
+msgid "Help text for field Pay Now button text"
+msgstr ""
+"Entrez le text qui va apparaitre sur le bouton utiliser pour procédé au "
+"payement. Ceci peut simplement être “Payer Maintenant” par exempl"
+
+msgid "Help text for field RapidQuote Email Subject"
+msgstr ""
+"Entrez le sujet de l’email envoyé après avoir complété la citation rapide. "
+"Ceci put être “Citation Rapide de _________” par exempl"
+
+msgid "Help text for field RapidQuote Email Message"
+msgstr ""
+"Entrez le contenu de l’email envoyé après avoir complété la citation rapide. "
+"Vous avez la possibilité d’utiliser les différents placeholders pour "
+"l’information technique, vous pouvez les trouver en dessous de ce champ de "
+"texte. Le contenu de l’email devrait donner au client une confirmation "
+"générale ainsi que les details et le bouton “Payer Maintenant”"
+
+msgid "Help text for field Approval Order Email Subject"
+msgstr ""
+"Entrez le sujet de l’email envoyé au client après que la preuve soit "
+"uploadé. Vous devriez leur montrer qu’un nouveau cycle de preuve a été lancé "
+"avec “Nouvelle preuve de la part de _______” par exemple"
+
+msgid "Help text for field Approval Order Email Message"
+msgstr ""
+"Entrez le contenu de l’email envoyé au client après que la preuve soit "
+"uploadé, dites leur qu’il faut soit accepter ou rejeter la preuve via un "
+"lien. Utiliser le placeholder [ORDERS_AWAITING_APPROVAL_LINK] pour placer le "
+"lien dans l’email"
+
+msgid "Help text for field Job-ticket excludes prices"
+msgstr ""
+"Choissez si le job-ticket doit cacher tous les prix ou doit inclure les prix"
+
+msgid "Help text for field Enable Widget"
+msgstr ""
+"Choisissez si un petit widget doit apparaitre en dessous de la page des "
+"produits, ce qui permet au utilisateurs d’envoyer à soit même une email "
+"contenant l’information des prix se trouvant sur la page des produits"
+
+msgid "Help text for field Email Quote Email Subject"
+msgstr ""
+"Entrez le sujet de l’email de citation de prix envoyé au client. Ceci peut "
+"être “Citation de prix de la part de _______ ” par exemple"
+
+msgid "Help text for field Message Heading"
+msgstr ""
+"Entrez le texte en tête de l’email de citation de prix envoyé au client. Le "
+"texte en tête est un rectangle coloré avec du texte en grande police à "
+"l’intérieur, qui apparait en haut de l’email. Ceci est généralement ce que "
+"le client lira en premier. Ceci peut être “Votre demande de citation de "
+"prix:” par exemple"
+
+msgid "Help text for field Message Top Text"
+msgstr ""
+"Entrez le texte qui doit apparaitre au dessus de l’email de citation de prix "
+"envoyé au client. Le texte du dessus est un texte dans une police normale "
+"qui apparait en haut, en dessous du texte en tête et au dessus des détails "
+"de la citation. Ceci peut être ce que vous voulez"
+
+msgid "Help text for field Message Bottom Text"
+msgstr ""
+"Entrez le texte qui doit apparaitre en dessous de l’email de citation de "
+"prix envoyé au client. Le texte en dessous est un texte dans une police "
+"normale qui apparait en dessous des détails de la citation. Ceci peut être "
+"ce que vous voulez"
+
+msgid "Help text for field Disable widget in Private Stores"
+msgstr ""
+"Choisissez si le widget “Citation Email” doit s’afficher en dessous de la "
+"calculatrice des prix dans la page des produits dans les boutiques privées"
+
+msgid "Help text for field Vendor Shipping Address"
+msgstr "Entrez l’adresse de livraison qui doit être utilisé pour le Vendor"
+
+msgid "Help text for field Vendor Billing Address"
+msgstr "Entrez l’adresse de facturation qui doit être utilisé pour le Vendor"
+
+msgid "Help text for field Use printshop billing address"
+msgstr ""
+"Choisissez si l’adresse de facturation doit être la même que celle du "
+"printshop"
+
+msgid "Help text for field Vendor Email Subject"
+msgstr ""
+"Entrez le sujet de l’email envoyé au Vendors quand une commande leur a été "
+"attribué. Ceci peut être “Nouvelle commande nécéssite une approbation” par "
+"exemple"
+
+msgid "Help text for field Vendor Email Header"
+msgstr ""
+"Entrez le message en tête de l’email envoyé au Vendors quand une commande "
+"leur a été attribué. Le texte en tête est un rectangle coloré avec du texte "
+"en grande police à l’intérieur, qui apparait en haut de l’email. Ceci peut "
+"être le même texte que le sujet de l’email par exemple"
+
+msgid "Help text for field Vendor Email Top Text"
+msgstr ""
+"Entrez le texte en haut de l’email envoyé au Vendors quand une commande leur "
+"a été attribué. Le texte du dessus est un texte dans une police normale qui "
+"apparait en haut, en dessous du texte en tête. Ceci peut être “Il y a une "
+"nouvelle commande de la part de ________ qui nécéssite un approbation. "
+"Veuillez visiter le site et donner un approbation pour commencer la "
+"production:” par exemple"
