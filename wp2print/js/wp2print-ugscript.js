@@ -1,9 +1,0 @@
-jQuery(document).ready(function($){
-	jQuery('.theme-background').wpColorPicker();
-	jQuery('.theme-topbar').wpColorPicker();
-	jQuery('.theme-logomenu').wpColorPicker();
-	jQuery('.theme-footer').wpColorPicker();
-	jQuery('.theme-content').wpColorPicker();
-	jQuery('.theme-prodbg').wpColorPicker();
-	jQuery('.theme-prodtext').wpColorPicker();
-});
